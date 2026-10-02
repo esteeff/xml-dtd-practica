@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedido>
+    <destinatario>Juan Delgado Merinez</destinatario>
+    <articulo>Bicicleta Bianchi</articulo>
+    <direccion>Reforma 423, interior 201</direccion>
+    <fecha>19-09-2021</fecha>
+</pedido>
